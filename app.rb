@@ -5,7 +5,7 @@ get '/' do
   "Hello, World!"
 end 
 get '/name' do
-  "Sam"
+  "My name is Sam"
 end
 get '/hometown' do
   "My hometown is Phoenix"
